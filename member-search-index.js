@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.example.citylist","c":"City","l":"compareTo(City)","url":"compareTo(com.example.citylist.City)"}]
